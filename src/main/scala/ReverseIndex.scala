@@ -1,15 +1,8 @@
-/**
-  * Created by abagla on 5/5/18.
-  */
-
 import akka.actor.{Actor, ActorLogging}
 
 import scala.collection.mutable.{Map => myMutableMap}
 
 
-/**
-  * Created by abagla on 5/5/18.
-  */
 object ReverseIndex{
   sealed trait Indexing
   case class StoreReverseIndex(tokens: List[String], id: String) extends Indexing

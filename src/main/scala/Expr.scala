@@ -1,7 +1,3 @@
-/**
-  * Created by abagla on 5/6/18.
-  */
-
 import scala.collection.mutable.{Map => myMutableMap}
 
 trait Expr {

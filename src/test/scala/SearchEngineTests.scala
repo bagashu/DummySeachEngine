@@ -1,7 +1,3 @@
-/**
-  * Created by abagla on 5/6/18.
-  */
-
 import akka.actor.{ActorSystem, Props}
 import akka.testkit.{ImplicitSender, TestKit}
 import org.scalatest.{BeforeAndAfterAll, Matchers, WordSpecLike}

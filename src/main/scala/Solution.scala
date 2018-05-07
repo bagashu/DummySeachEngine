@@ -1,7 +1,3 @@
-/**
-  * Created by abagla on 5/5/18.
-  */
-
 import akka.actor.{ActorSystem, Props}
 import akka.pattern.ask
 import akka.util.Timeout

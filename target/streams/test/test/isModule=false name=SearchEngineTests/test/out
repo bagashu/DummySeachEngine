@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m[32mSearchEngineTests:[0m[0m
+[0m[[0minfo[0m] [0m[32mA DocCrawler actor[0m[0m
+[0m[[0minfo[0m] [0m[32m- must send back inserted doc id[0m[0m
+[0m[[0minfo[0m] [0m[32m- must add another doc[0m[0m
+[0m[[0minfo[0m] [0m[32m- must add one more doc[0m[0m
+[0m[[0minfo[0m] [0m[32m- must add more docs[0m[0m
+[0m[[0minfo[0m] [0m[32m- must overwrite existing doc[0m[0m
+[0m[[0minfo[0m] [0m[32mSearch Query[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return empty result when no doc is found[0m[0m
+[0m[[0minfo[0m] [0m[32m- must must send back query result[0m[0m
+[0m[[0minfo[0m] [0m[32m- must must send back query result with multiple doc ids[0m[0m
+[0m[[0minfo[0m] [0m[32m- must must handle conjuction[0m[0m
+[0m[[0minfo[0m] [0m[32m- must must handle disjunction[0m[0m
+[0m[[0minfo[0m] [0m[32m- must must combination of conjunction and disjunction[0m[0m
